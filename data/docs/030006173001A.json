@@ -1,0 +1,28 @@
+{
+ "ref": "030006173001A",
+ "refDisplay": "0300 06 173001A",
+ "title": "CANALISATION FIX FILTRE CARBURANT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGR&B0F=B0F5R",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJR&B0F=B0F5R",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0F5R",
+   "fctId": "FCT0010"
+  }
+ ]
+}

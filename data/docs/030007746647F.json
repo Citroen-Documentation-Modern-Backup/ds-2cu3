@@ -1,0 +1,213 @@
+{
+ "ref": "030007746647F",
+ "refDisplay": "0300 07 746647F",
+ "title": "PANNEAU DE COTE ENCADREMENT COTE GAUCHE",
+ "nature": "",
+ "applicability": "PORTE LAT G COULISSANTE SAUF PAVILLON REHAUSSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0FM3",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0FM0",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0FD9",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2J",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FM3",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FM0",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FM1",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FDA",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0F5R",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FM3",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FM0",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FM1",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FD8",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FD9",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDC",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDA",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2J",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FM3",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FM0",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FM1",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FD9",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FDC",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FDA",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F5C",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2J",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0FM3",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0FM0",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0FDB",
+   "fctId": "FCT0129"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "ref": "B1HB2UP0",
+ "refDisplay": "B1HB2UP0",
+ "title": "Caractéristiques - identification  : circuit de recyclage des gaz d’échappement",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5C",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F5C",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F5C",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F5C",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F5C",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F5C",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F5C",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F5C",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F5C",
+   "fctId": "FCT0012"
+  }
+ ]
+}

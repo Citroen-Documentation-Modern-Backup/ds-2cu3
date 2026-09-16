@@ -1,0 +1,114 @@
+{
+ "ref": "2CU30581469",
+ "refDisplay": "2CU3 0 58 1469",
+ "title": "DOSEUR AIR FROID",
+ "nature": "",
+ "applicability": "(5029) JUMPER CHASSIS CABINE COURT TYPE 14 DIESEL TURBO DW10TD",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSC&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0F2X",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0F2X",
+   "fctId": "FCT0014"
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "ref": "030002140034M",
+ "refDisplay": "0300 02 140034M",
+ "title": "POMPE INJECTION SUPPORT PIGNON",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGR&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJR&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQR&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTD&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDA",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FDA",
+   "fctId": "FCT0010"
+  }
+ ]
+}

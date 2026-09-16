@@ -1,0 +1,98 @@
+{
+ "ref": "030008982311B",
+ "refDisplay": "0300 08 982311B",
+ "title": "TABLETTE AR - CACHE BAGAGES",
+ "nature": "",
+ "applicability": "COMBI CLUB DEPUIS SERIE 15751871",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FM3",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0F2X",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0F5T",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FM0",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FM1",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FD9",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FDB",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FDC",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FDA",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FM3",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0F5T",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FM0",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FM1",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FD9",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDB",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDC",
+   "fctId": "FCT0240"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDA",
+   "fctId": "FCT0240"
+  }
+ ]
+}

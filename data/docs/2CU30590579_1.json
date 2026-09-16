@@ -1,0 +1,144 @@
+{
+ "ref": "2CU30590579_1",
+ "refDisplay": "2CU3 0 59 0579",
+ "title": "BOITIER D’EAU SUR CULASSE SUR PATTE D’ELINGUAGE",
+ "nature": "",
+ "applicability": "(503W) JUMPER CHASSIS CABINE COURT TYPE 10 DIESEL TURBO XUD9TE STANDARD",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM0",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM1",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0F2J",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM0",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM1",
+   "fctId": "FCT0009"
+  }
+ ]
+}

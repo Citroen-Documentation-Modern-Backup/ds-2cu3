@@ -1,0 +1,34 @@
+{
+ "ref": "2CU304820636_2",
+ "refDisplay": "2CU3 0 482 0636",
+ "title": "4 BOUGIES DE PRECHAUFFAGE",
+ "nature": "",
+ "applicability": "(MU9A) JUMPER CHASSIS CABINE MOYEN TYPE 10 DIESEL XUD9 STANDARD",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5C",
+   "fctId": "FCT0304"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F5C",
+   "fctId": "FCT0304"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F5C",
+   "fctId": "FCT0304"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F5C",
+   "fctId": "FCT0304"
+  }
+ ]
+}

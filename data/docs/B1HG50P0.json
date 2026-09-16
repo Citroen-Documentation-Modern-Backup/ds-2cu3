@@ -1,0 +1,155 @@
+{
+ "ref": "B1HG50P0",
+ "refDisplay": "B1HG50P0",
+ "title": "Dépose - repose : filtre à carburant  (moteur DW10 UTD)",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGX&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSC&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFC&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFQ&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRQ&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0F2X",
+   "fctId": "FCT0010"
+  }
+ ]
+}

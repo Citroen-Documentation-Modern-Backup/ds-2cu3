@@ -1,0 +1,63 @@
+{
+ "ref": "030001330016A",
+ "refDisplay": "0300 01 330016A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM MG5T",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGR&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGJ&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJR&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQR&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTD&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FD9",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FD9",
+   "fctId": "FCT0017"
+  }
+ ]
+}

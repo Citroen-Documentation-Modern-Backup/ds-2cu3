@@ -1,0 +1,28 @@
+{
+ "ref": "030006184801A",
+ "refDisplay": "0300 06 184801A",
+ "title": "ECHAPPEMENT INTERMEDIAIRE ET AR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGR&B0F=B0F5R",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJR&B0F=B0F5R",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0F5R",
+   "fctId": "FCT0011"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "ref": "2CU30281550_3",
+ "refDisplay": "2CU3 0 28 1550",
+ "title": "CARTOUCHE DE FILTRE A GAZOLE",
+ "nature": "",
+ "applicability": "(MU9A) JUMPER CHASSIS CABINE MOYEN TYPE 10 DIESEL XUD9 STANDARD",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F2J",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0FM0",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM3",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM0",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM1",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM3",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM0",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM1",
+   "fctId": "FCT0010"
+  }
+ ]
+}

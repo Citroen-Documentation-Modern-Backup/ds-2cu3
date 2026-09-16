@@ -1,0 +1,28 @@
+{
+ "ref": "030002140022A",
+ "refDisplay": "0300 02 140022A",
+ "title": "CARBURATEUR DETAILS CORPS INJECTION",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGR&B0F=B0F5R",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJR&B0F=B0F5R",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0F5R",
+   "fctId": "FCT0010"
+  }
+ ]
+}

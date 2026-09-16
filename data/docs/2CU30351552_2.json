@@ -1,0 +1,29 @@
+{
+ "ref": "2CU30351552_2",
+ "refDisplay": "2CU3 0 35 1552",
+ "title": "4 TUYAUX ALIMENTATION INJECTEURS",
+ "nature": "",
+ "applicability": "(MU9A) JUMPER CHASSIS CABINE MOYEN TYPE 10 DIESEL XUD9 STANDARD",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F5C",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F5C",
+   "fctId": "FCT0010"
+  }
+ ]
+}

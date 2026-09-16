@@ -1,0 +1,113 @@
+{
+ "ref": "030007008410",
+ "refDisplay": "0300 07 008410",
+ "title": "PAVILLON - DOUBLURE - PORTE BAGAGES",
+ "nature": "",
+ "applicability": "PAVILLON REHAUSSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FM3",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0F2X",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0F5T",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FM0",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FM1",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FDB",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FM3",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0F5T",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FM0",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FM1",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FD9",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FDB",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FDA",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM3",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0F5T",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM0",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM1",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FD9",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FDB",
+   "fctId": "FCT0143"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FDA",
+   "fctId": "FCT0143"
+  }
+ ]
+}

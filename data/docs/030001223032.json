@@ -1,0 +1,123 @@
+{
+ "ref": "030001223032",
+ "refDisplay": "0300 01 223032",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFC&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFQ&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRQ&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0F2J",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0F2J",
+   "fctId": "FCT0008"
+  }
+ ]
+}

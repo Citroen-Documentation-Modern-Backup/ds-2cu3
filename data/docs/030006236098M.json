@@ -1,0 +1,83 @@
+{
+ "ref": "030006236098M",
+ "refDisplay": "0300 06 236098M",
+ "title": "BOITIER EAU - THERMOCONTACT - SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGR&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGJ&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJR&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQR&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTD&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FD9",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FD9",
+   "fctId": "FCT0009"
+  }
+ ]
+}

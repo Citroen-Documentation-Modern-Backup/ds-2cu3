@@ -1,0 +1,993 @@
+{
+ "ref": "030004451207A",
+ "refDisplay": "0300 04 451207A",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": " DEPUIS SERIE 16204256",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGB&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGQ&B0F=B0FDA",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGG&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGX&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGX&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGX&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGX&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMC&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMQ&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMQ&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMQ&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMQ&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMX&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMX&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNB&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DNC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FD9",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FDC",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTC&B0F=B0FDA",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTB&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVQ&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVH&B0F=B0FDA",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FD9",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FDC",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTH&B0F=B0FDA",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTG&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSB&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSC&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSC&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSC&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSC&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DSC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWB&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FD9",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FDC",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYH&B0F=B0FDA",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F5C",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWG&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FM1",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FD8",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FD9",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FDC",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DWH&B0F=B0FDA",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQA&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFC&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFC&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFC&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFC&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFQ&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFQ&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFQ&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFQ&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFQ&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRQ&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRQ&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRQ&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRQ&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRQ&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0F2J",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0FM3",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0F2X",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0F5T",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0FM0",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRH&B0F=B0FDB",
+   "fctId": "FCT0040"
+  }
+ ]
+}

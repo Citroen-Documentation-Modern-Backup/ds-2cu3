@@ -1,0 +1,108 @@
+{
+ "ref": "030001330011A",
+ "refDisplay": "0300 01 330011A",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM MG5T ET CP 12 X 71 SAUF 4X4 DANGEL",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGJ&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DGY&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DJR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMJ&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DMY&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DND&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DQJ&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DTD&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DVJ&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DYJ&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRR&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DFJ&B0F=B0FM3",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CU3",
+   "variantKey": "B0D=B0DRJ&B0F=B0FM3",
+   "fctId": "FCT0017"
+  }
+ ]
+}
